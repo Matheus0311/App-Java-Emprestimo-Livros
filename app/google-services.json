@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869973368104",
+    "firebase_url": "https://p2-emprestimo-de-livros-default-rtdb.firebaseio.com",
+    "project_id": "p2-emprestimo-de-livros",
+    "storage_bucket": "p2-emprestimo-de-livros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869973368104:android:959ef40afd67305447841d",
+        "android_client_info": {
+          "package_name": "br.matheus.p2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869973368104-gfqi6jmh6ka9bp7f4tu5erdlora8a100.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.matheus.p2",
+            "certificate_hash": "b7a7ea2ac8eb1fc517a80142929ecbfc5c8223bf"
+          }
+        },
+        {
+          "client_id": "869973368104-7qecijflfr8pih1htv49n9f3m2vs5j5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE5PKpku4udmhkAJe6bBGWEOFHFSLcIHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869973368104-7qecijflfr8pih1htv49n9f3m2vs5j5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

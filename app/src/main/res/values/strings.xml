@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">P2</string>
+    <string name="btalunos">Alunos</string>
+    <string name="btlivros">Livros</string>
+    <string name="btempr_stimo">Empréstimo</string>
+    <string name="btsair">Sair</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="listar">Listar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nomeAluno">Informe o nome do Aluno</string>
+    <string name="cursoAluno">Informe o curso do Aluno</string>
+    <string name="btSalvarAluno">Salvar Dados</string>
+    <string name="nomeLivro">Informe o título do Livro</string>
+    <string name="autorLivro">Informe o nome do Autor</string>
+    <string name="btSalvarLivro">Salvar Dados</string>
+    <string name="nomeAlunoEmprestimo">Informe o nome do Aluno</string>
+    <string name="nomeLivroEmprestimo">Informe o título do Livro a ser emprestado</string>
+    <string name="btSalvarEmprestimo">Salvar Dados</string>
+    <string name="nome">Nome</string>
+    <string name="curso">Curso</string>
+    <string name="autor">Autor</string>
+    <string name="livro">Livro</string>
+</resources>
