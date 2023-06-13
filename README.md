@@ -2,21 +2,9 @@
 
 <span align="center">
 
-##  Olá professor, André! 👋 
+##  Olá! 👋 
 
 </span>
-
-<br/>
-<p align="center">
-  Professor, tenho uma observação a fazer 👀. No meu pc 💻 pessoal a aplicação não está rodando 🤔, não sei se é algum problema no AndroidStudio, mas eu fiz de tudo e não consegui
-rodar aqui, então eu fiz todo o código no braço 💪 seguindo o seu tutorial 👨‍💻 e de um indiano no youtube 🎥 e pedia pra um amigo 🤝 ir testando no computador dele, lá está funcionando ⚙️ tudo certinho ✔️, tanto que no banco de dados 🎲
-as inserções estão todas lá, irei mostrar com algumas imagens o recyclerView funcionando e mostrar os dados salvos no Firebase. a API que ele usou no emulador foi Pixel 3a API 33 x86 64
-</p>
-
-<p align="center">
-  💌 Qualquer coisa, por favor me mande um email: ⤵️<br/>
-            802.243@alunos.unigran.br
-</p>
 <br/>
 
 <span align="center">
